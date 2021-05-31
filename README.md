@@ -33,6 +33,7 @@ I came across coding in my spare time during the pandemic and immediately loved 
 ### :notebook: Currently Learning
 - `Algos` 
 - `Data structures`
+- `Socket.IO`
 
  ### 📫  How to reach me:
  - [LinkedIn](http://www.linkedin.com/in/leoradouek)
