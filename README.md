@@ -48,5 +48,5 @@ I came across coding in my spare time during the pandemic and immediately loved 
 
  ### 📫  How to reach me:
  - [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](http://www.linkedin.com/in/leoradouek)
- - email: leorakurtz@gmail.com
+ - :envelope_with_arrow: leorakurtz@gmail.com
 
