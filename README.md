@@ -33,13 +33,14 @@ I came across coding in my spare time during the pandemic and immediately loved 
 
  - *[Priceless](http://price-less.herokuapp.com/)*
     - A collaboration focused web application that facilities a gift economy between community members
-    - [Github](https://github.com/BulbasaurBrigade/priceless)
+    - [Demo](https://www.youtube.com/watch?v=wRIXZMf2XGs&list=PLx0iOsdUOUmnPA9l9RyeENObqv4SJi-_S&index=12)
+    - [GitHub](https://github.com/BulbasaurBrigade/priceless)
     - Tech stack: React, Redux, Socket.IO, React Leaflet, Mapbox, Firebase Auth, Firebase Cloud Storage, Heroku, PostgreSQL, Express.js, Node.js, Node-Cron, Google    Geocoding API
 
 
 - *[Times Up](https://thetimesup.herokuapp.com/)*
     -  Web application for the charades-based party game, Times Up
-    -  [Github](https://github.com/leoradouek/Times-Up)
+    -  [GitHub](https://github.com/leoradouek/Times-Up)
     -  Tech stack: Express, Sequelize, React, Redux, Heroku
 
 
