@@ -4,6 +4,7 @@ I'm a software engineer with a background in pharmacy.
 
 I came across coding in my spare time during the pandemic and immediately loved it! After several months of self-learning, I enrolled in the Grace Hopper Program at Fullstack Academy, a 17-week immersive fullstack program, to develop my skills to turn my new-found hobby into a career.
 
+
 ### :sassy_woman: About Me:
 - I'm from Canada :canada:, currently living in the US :us:
 - Outside of coding I like:
@@ -11,6 +12,7 @@ I came across coding in my spare time during the pandemic and immediately loved 
    - :weight_lifting_woman: lifting barbells
    - :house: home organization projects
    - :coconut: watching Survivor
+
 
 ### :computer: Languages & Technologies
 - <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -25,23 +27,24 @@ I came across coding in my spare time during the pandemic and immediately loved 
 - <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 - <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 - <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-- 
+
 
 ### :file_folder: Projects
 
-#### *[Priceless](http://price-less.herokuapp.com/)*
- - A collaboration focused web application that facilities a gift economy between community members
- - Tech stack: React, Redux, Socket.IO, React Leaflet, Mapbox, Firebase Auth, Firebase Cloud Storage, Heroku, PostgreSQL, Express.js, Node.js, Node-Cron, Google    Geocoding API
+ - *[Priceless](http://price-less.herokuapp.com/)*
+    - A collaboration focused web application that facilities a gift economy between community members
+    - Tech stack: React, Redux, Socket.IO, React Leaflet, Mapbox, Firebase Auth, Firebase Cloud Storage, Heroku, PostgreSQL, Express.js, Node.js, Node-Cron, Google    Geocoding API
 
 
-#### *[Times Up](https://thetimesup.herokuapp.com/)*
--  Web application for the charades-based party game, Times Up
--  Tech stack: Express, Sequelize, React, Redux, Heroku
+- *[Times Up](https://thetimesup.herokuapp.com/)*
+    -  Web application for the charades-based party game, Times Up
+    -  Tech stack: Express, Sequelize, React, Redux, Heroku
 
 
 ### :notebook: Currently Learning
 - `Algos and Data structures`
 - `Socket.IO`
+
 
  ### 📫  How to reach me:
  - [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>](http://www.linkedin.com/in/leoradouek)
