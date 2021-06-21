@@ -6,7 +6,7 @@ I came across coding in my spare time during the pandemic and immediately loved 
 
 
 ### :sassy_woman: About Me:
-- I'm from Canada :canada:, currently living in the US :us:
+- I'm from Canada :canada: , currently living in the US :us:
 - Outside of coding I like:
    - :musical_note: playing piano
    - :weight_lifting_woman: lifting barbells
