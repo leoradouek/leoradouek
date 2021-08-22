@@ -10,7 +10,6 @@ I came across coding in my spare time during the pandemic and immediately loved 
 - Outside of coding I like:
    - :musical_note: playing piano
    - :weight_lifting_woman: lifting barbells
-   - :house: home organization projects
    - :coconut: watching Survivor
 
 
@@ -46,7 +45,8 @@ I came across coding in my spare time during the pandemic and immediately loved 
 
 ### :notebook: Currently Learning
 - `Algos and Data structures`
-- `Socket.IO`
+- `React Hooks`
+- `Typescript`
 
 
  ### 📫  How to reach me:
