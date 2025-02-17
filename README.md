@@ -2,9 +2,6 @@
 
 I'm a software engineer with a background in pharmacy. 
 
-I came across coding in my spare time during the pandemic and immediately loved it! After several months of self-learning, I enrolled in the Grace Hopper Program at Fullstack Academy, a 17-week immersive fullstack program, to develop my skills to turn my new-found hobby into a career.
-
-
 ### :sassy_woman: About Me:
 - I'm from Canada :canada: , currently living in the US :us:
 - Outside of coding I like:
